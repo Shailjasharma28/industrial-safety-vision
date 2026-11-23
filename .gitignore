@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+venv/
+.env
+*.pt
+*.onnx
+runs/
+# Keep downloaded datasets, local YAML files, and absolute-path split manifests private.
+data/
